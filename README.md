@@ -5,3 +5,6 @@
 ### Tor
 - [Torphantom](https://neoslab.com/2018/07/01/how-to-hide-your-ip-using-torphantom/)
 - [TorGhost](https://github.com/susmithHCK/torghost)
+
+### GPG
+- [GPG tutorial from devdungeon](https://www.devdungeon.com/content/gpg-tutorial)
