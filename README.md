@@ -11,3 +11,5 @@
 
 - [torify-analyze-traffic-vm](https://blog.malwarebytes.com/101/how-tos/2017/03/torify-analyze-traffic-vm/)
 - [How to install KVM on Ubuntu 16.04 LTS Headless Server](https://www.cyberciti.biz/faq/installing-kvm-on-ubuntu-16-04-lts-server/)
+- [Adversaries and Anonymity Systems: The Basics](https://www.ivpn.net/privacy-guides/adversaries-and-anonymity-systems-the-basics)
+- [Hardening](https://www.whonix.org/wiki/Advanced_Security_Guide)
